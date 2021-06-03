@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @ConnorH14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Connor, a current web development student at BoiseCodeworks.
 
-<!---
-ConnorH14/ConnorH14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> My current skills:
+
+- HTML, CSS, JavaScript, MVC Design Pattern
+- Node.js, MongoDB, SQL and MySQL
+- Agile and Scrum Methodologies
+- C# and Unity Game Engine Development
+
+> Additional Achievments:
+
+- 2020 Top 10 National Placement in Business Professionals of America Web Application Team
+- Certified in Micrsoft Word
+
+> Contact Me:
+
+- 📧 ConnorH14@live.com
+- LinkedIn [Connor Hines](https://www.linkedin.com/in/connor-hines-802413193/)
+
