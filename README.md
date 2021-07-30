@@ -1,4 +1,4 @@
-# Hi, I’m Connor, a current web development student at BoiseCodeworks.
+# Hi, I’m Connor, a software developer
 
 > My current skills:
 
